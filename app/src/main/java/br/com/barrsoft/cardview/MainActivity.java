@@ -31,12 +31,12 @@ public class MainActivity extends AppCompatActivity {
 
     @OnClick(R.id.button1)
     public void setActionButton1(View view){
-        Toast.makeText(getApplicationContext(),R.string.botao_1,Toast.LENGTH_LONG).show();
+        Toast.makeText(getApplicationContext(),R.string.toastId,Toast.LENGTH_LONG).show();
     }
 
     @OnClick(R.id.button2)
     public void setActionButton2(View view){
-        Toast.makeText(getApplicationContext(),R.string.botao_1,Toast.LENGTH_LONG).show();
+        Toast.makeText(getApplicationContext(),R.string.toastKey,Toast.LENGTH_LONG).show();
     }
 
 
