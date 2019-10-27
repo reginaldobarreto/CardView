@@ -59,7 +59,7 @@
                 android:layout_height="200dp"
                 android:contentDescription="@string/imagem_principal"
                 android:scaleType="fitXY"
-                app:srcCompat="@drawable/imagem" />
+                app:srcCompat="@drawable/background" />
 
             <TextView
                 android:layout_width="match_parent"
