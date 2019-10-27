@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">CardView</string>
+    <string name="app_name">Cardview</string>
+    <string name="botao_1">BOTAO 1</string>
+    <string name="botao_2">BOTAO 2</string>
+    <string name="titulo">Orphan Black</string>
+    <string name="subtitulo">Clone Club</string>
+    <string name="icone">Icone</string>
+    <string name="imagem_principal">Imagem Principal</string>
+    <string name="texto_principal">Membro do Clube de Clones</string>
 </resources>
