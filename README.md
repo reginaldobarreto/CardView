@@ -1,11 +1,11 @@
-# APP
+# CardView
 
 ## Sobre o APP 
-Esse aplicativo xxxxxx
+Esse aplicativo tem como objetivo mostrar a utilização do CardView
 ## Conhecimento aplicado
-* xxxx
-* xxxx
-* xxxx
+* Butter Knife
+* Layouts
+* CardView
 
 ## Screeshots
 
